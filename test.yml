@@ -1,0 +1,4 @@
+variables:
+  VAR: user
+  POSTGRES_PASSWORD: testing_password
+  POSTGRES_DB: $CI_ENVIRONMENT_SLUG
